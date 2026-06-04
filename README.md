@@ -433,7 +433,15 @@ root@shagilan:~$ cat achievements.log | sort -k1
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagilan&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00AAFF&title_color=00AAFF&text_color=00AAFF&langs_count=8" width="49%" alt="Top Languages"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shagilan&bg_color=0d1117&color=00AAFF&line=00AAFF&point=00AAFF&area=true&hide_border=false&border_color=00AAFF&title_color=00AAFF" width="98%" alt="Contribution Graph"/>
+<div align="center">
 
+[![GitHub](https://img.shields.io/badge/GITHUB-@Shagilan-0d1117?style=for-the-badge&logo=github&logoColor=00AAFF&labelColor=0d1117)](https://github.com/Shagilan)
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Shagilan_Umashankar-0d1117?style=for-the-badge&logo=linkedin&logoColor=00AAFF&labelColor=0d1117)](https://linkedin.com/in/shagilan-umashankar-303b11330)
+
+[![Email](https://img.shields.io/badge/EMAIL-rootshaxx.umashankar@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=00AAFF&labelColor=0d1117)](mailto:rootshaxx.umashankar@gmail.com)
+
+</div>
 </div>
 
 -----
