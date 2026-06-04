@@ -199,7 +199,7 @@ total 4
 drwxr-xr-x  shagilan  staff   .
 drwxr-xr-x  shagilan  staff   ..
 -rwxr-xr-x  shagilan  staff   PS_43__Intrusion_Detection_System/    [ACTIVE ✓]
--rw-------  root      root    GHOST_02__Classified/                 [RESTRICTED 🔒]
+-rw-------  root      root    project malware2.0/                 [RESTRICTED 🔒]
 -rwxr--r--  shagilan  staff   NOVA_03__In_Progress/                 [BUILD 67% ⏳]
 -rw-r--r--  shagilan  staff   FUTURE_AI_PROJECTS/                   [PLANNING 🛸]
 ```
@@ -242,7 +242,7 @@ drwxr-xr-x  shagilan  staff   ..
 
 -----
 
-### `📁 GHOST_02 — [CLASSIFIED]`
+### `📁 project malware2.0 — [CLASSIFIED]`
 
 ```
 ┌──[shagilan@SHAGILAN-SYS]─[~/projects/GHOST_02]
@@ -257,7 +257,7 @@ drwxr-xr-x  shagilan  staff   ..
   ║  STACK    : ████████ · ████ · ████████                ║
   ║  DESC     : ██████████████████████████████████████    ║
   ║             ████████████████ REDACTED ██████████      ║
-  ║  CLEARANCE: TOP SECRET — LEVEL 5 REQUIRED             ║
+  ║  CLEARANCE: TOP SECRET — LEVEL  REQUIRED             ║
   ╚════════════════════════════════════════════════════════╝
 
   bash: permission denied — nice try though 😏
@@ -268,21 +268,21 @@ drwxr-xr-x  shagilan  staff   ..
 
 -----
 
-### `📁 NOVA_03 — In Progress`
+### `📁 In Progress`
 
 ```
 ┌──[shagilan@SHAGILAN-SYS]─[~/projects/NOVA_03]
 └─$ ./build.sh --status
 
   ╔════════════════════════════════════════════════════════╗
-  ║             NOVA_03 — AI RESEARCH PROJECT            ║
+  ║              — AI RESEARCH PROJECT                     ║
   ╠════════════════════════════════════════════════════════╣
   ║  TYPE     : AI / Threat Intelligence                   ║
   ║  STACK    : Python · PyTorch · Transformers            ║
   ║             FastAPI · Redis                            ║
   ║  DESC     : Adversarial ML meets automated threat      ║
   ║             intelligence. Training phase active.       ║
-  ║  PROGRESS : [█████████████░░░░░░░] 67%                ║
+  ║  PROGRESS : [█████████████░░░░░░░] 67%                 ║
   ║  ETA      : SOON™                                      ║
   ╚════════════════════════════════════════════════════════╝
 
@@ -307,15 +307,15 @@ drwxr-xr-x  shagilan  staff   ..
 └─$ cat roadmap.txt
 
   ╔════════════════════════════════════════════════════════╗
-  ║           FUTURE PROJECTS — ROADMAP 2025+            ║
+  ║           FUTURE PROJECTS — ROADMAP 2026               ║
   ╠════════════════════════════════════════════════════════╣
   ║  🛸  AI-Powered CTF Auto-Solver                       ║
   ║  🛸  LLM-based Code Review Assistant                  ║
   ║  🛸  Real-time Deepfake Detection System              ║
   ║  🛸  Godot + ML Adaptive Game AI                      ║
   ║  🛸  Autonomous Penetration Testing Agent             ║
-  ╠════════════════════════════════════════════════════════╣
-  ║  STATUS   : WATCH THIS SPACE 🚀                       ║
+  ╠═══════════════════════════════════════════════════════╣
+  ║  STATUS   : WATCH THIS SPACE 🚀                        ║
   ╚════════════════════════════════════════════════════════╝
 ```
 
