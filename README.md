@@ -4,8 +4,7 @@
 
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shagilan&color=00aaff&style=flat&label=TERMINAL+SESSIONS)
-[![GitHub](https://img.shields.io/github/followers/Shagilan?label=FOLLOWERS&style=flat&color=00aaff&labelColor=0d1117&logo=github&logoColor=00aaff)](https://github.com/Shagilan)
+
 ![Status](https://img.shields.io/badge/STATUS-LEARNING_%7C_BUILDING_%7C_IMPROVING-00aaff?style=flat&labelColor=0d1117)
 
 </div>
