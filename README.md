@@ -515,7 +515,7 @@ root@shagilan:~$ cat fun_facts.txt
 ## `$ ./connect --establish-link`
 
 ```
-root@shagilan:~$ ./connect.sh
+rootshaxx.umashankar@gmail.com:~$ ./connect.sh
 
   ╔═══════════════════════════════════════════════════════╗
   ║       ESTABLISHING SECURE CONNECTIONS...             ║
@@ -529,10 +529,9 @@ root@shagilan:~$ ./connect.sh
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GITHUB-@Shagilan-0d1117?style=for-the-badge&logo=github&logoColor=00AAFF&labelColor=0d1117)](https://github.com/Shagilan)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Shagilan_Umashankar-0d1117?style=for-the-badge&logo=linkedin&logoColor=00AAFF&labelColor=0d1117)](https://linkedin.com/in/shagilan)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-shagilan-umashankar-303b11330?style=for-the-badge&logo=linkedin&logoColor=00AAFF&labelColor=0d1117)](https://linkedin.com/in/shagilan-umashankar-303b11330)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-shagilan.dev-0d1117?style=for-the-badge&logo=vercel&logoColor=00AAFF&labelColor=0d1117)](https://shagilan.dev)
-[![Email](https://img.shields.io/badge/EMAIL-contact@shagilan.dev-0d1117?style=for-the-badge&logo=protonmail&logoColor=00AAFF&labelColor=0d1117)](mailto:contact@shagilan.dev)
-[![TryHackMe](https://img.shields.io/badge/TRYHACKME-@Shagilan-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00AAFF&labelColor=0d1117)](https://tryhackme.com/p/Shagilan)
+[![Email](https://img.shields.io/badge/EMAIL-contact@shaxx.umashankar@gmail.com.dev-0d1117?style=for-the-badge&logo=protonmail&logoColor=00AAFF&labelColor=0d1117)](mailto:contact@shaxx.umashankar@gmail.com.dev)
 
 <br/>
 
