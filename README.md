@@ -1,26 +1,12 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=32&duration=2800&pause=1000&color=00AAFF&background=00000000&center=true&vCenter=true&multiline=false&width=750&lines=%24+whoami+%E2%86%92+Shagilan+Umashankar;%24+sudo+apt+install+ambition;%24+git+commit+-m+%22building+the+future%22;%24+python3+train_model.py+--epochs+%E2%88%9E)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=slice&color=111827,06b6d4,22d3ee&height=220&section=header&text=SHAGILAN.SYS&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Code%20•%20Build%20•%20Innovate&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
-<br/>
 
-```
- ____  _   _    _    ____ ___ _        _    _   _
-/ ___|| | | |  / \  / ___|_ _| |      / \  | \ | |
-\___ \| |_| | / _ \| |  _ | || |     / _ \ |  \| |
- ___) |  _  |/ ___ \ |_| || || |___ / ___ \| |\  |
-|____/|_| |_/_/   \_\____|___|_____/_/   \_\_| \_|
-
-  [ ML ENGINEER ]  [ CYBERSEC ENTHUSIAST ]  [ OPEN SOURCE BUILDER ]
-  [ WALAJAPET, INDIA 🇮🇳 ]              [ SHAGILAN.SYS v2.0.0 ]
-```
-
-<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Shagilan&color=00aaff&style=flat&label=TERMINAL+SESSIONS)
 [![GitHub](https://img.shields.io/github/followers/Shagilan?label=FOLLOWERS&style=flat&color=00aaff&labelColor=0d1117&logo=github&logoColor=00aaff)](https://github.com/Shagilan)
 ![Status](https://img.shields.io/badge/STATUS-LEARNING_%7C_BUILDING_%7C_IMPROVING-00aaff?style=flat&labelColor=0d1117)
-![Kernel](https://img.shields.io/badge/KERNEL-NEON--BLUE--5.15-00aaff?style=flat&labelColor=0d1117&logo=linux&logoColor=00aaff)
 
 </div>
 
@@ -66,19 +52,15 @@ class Shagilan:
         self.username           = "Shagilan"
         self.location           = "Walajapet, Tamil Nadu, India 🇮🇳"
         self.education          = "B.Tech — Computer Science"
-        self.roles              = [
-            "🤖 Machine Learning Engineer",
-            "🔐 Cybersecurity Enthusiast",
-            "🌐 Open Source Contributor",
-            "⚡ Automation Builder",
-        ]
+        self.roles              = ["🤖 Machine Learning Engineer",
+                                   "🔐 Cybersecurity Enthusiast",
+                                   "🌐 Open Source Contributor",
+                                   "⚡ Automation Builder",]
         self.languages          = ["Python", "JavaScript"]
-        self.currently_learning = [
-            "Advanced Machine Learning",
-            "Network Security & Red Teaming",
-            "Cloud Technologies (AWS / GCP)",
-        ]
-        self.interests          = [
+        self.currently_learning = ["Advanced Machine Learning",
+                                   "Network Security & Red Teaming",
+                                   "Cloud Technologies (AWS / GCP)",]
+-----------------------self.interests---------------------------------------------------------       
             "🤖 Machine Learning & Artificial Intelligence",
             "🔐 Cybersecurity & Ethical Hacking",
             "🏆 Hackathons & Problem Solving",
@@ -88,7 +70,7 @@ class Shagilan:
             "⚡ Automation Tools & Productivity",
             "🏋️ Fitness & Self-Improvement",
             "📚 Continuous Learning & Research",
-        ]
+--------------------------------------------------------------------------------------------
         self.fun_facts          = [
             "Builds ML projects to understand the world better",
             "Solves CTF challenges for breakfast 🔓",
@@ -426,11 +408,11 @@ root@shagilan:~$ cat achievements.log | sort -k1
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shagilan&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00AAFF&title_color=00AAFF&icon_color=00AAFF&text_color=00AAFF&rank_icon=github&include_all_commits=true&count_private=true" width="49%" alt="GitHub Stats"/>
+
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shagilan&theme=tokyonight&background=0d1117&border=00AAFF&stroke=00AAFF&ring=00AAFF&fire=00aaff&currStreakNum=00AAFF&sideNums=00AAFF&currStreakLabel=00AAFF&sideLabels=00AAFF&dates=00AAFF" width="49%" alt="Streak Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shagilan&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00AAFF&title_color=00AAFF&text_color=00AAFF&langs_count=8" width="49%" alt="Top Languages"/>
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shagilan&bg_color=0d1117&color=00AAFF&line=00AAFF&point=00AAFF&area=true&hide_border=false&border_color=00AAFF&title_color=00AAFF" width="98%" alt="Contribution Graph"/>
 <div align="center">
@@ -576,12 +558,28 @@ rootshaxx.umashankar@gmail.com:~$ ./connect.sh
 ║                                                                              ║
 ║              root@shagilan:~# logout                                         ║
 ║              Saving session... done.                                         ║
-║              Connection to SHAGILAN.SYS closed. See you in the repo. 👾    ║
+║              Connection to SHAGILAN.SYS closed.    ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
+<h3 align="center">SHAGILAN.SYS v2.0.0 See you in the repo. 👾</h3>
 
-![Made with](https://img.shields.io/badge/Crafted_with-terminal_aesthetic_%26_caffeine-0d1117?style=flat&logo=linux&logoColor=00aaff)
-![Powered by](https://img.shields.io/badge/Powered_by-curiosity_%26_consistency-0d1117?style=flat&logo=kalilinux&logoColor=00aaff)
+<p align="center">
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=42&pause=1000&color=06B6D4&center=true&vCenter=true&width=900&height=100&lines=SHAGILAN.SYS;Computer+Science+Engineer;Machine+Learning+Enthusiast;Cybersecurity+Learner;Full+Stack+Developer" alt="Typing SVG" />
+</p>
+</p>
 
+<p align="center">
+  <code>[CPU: OVERCLOCKED] [RAM: MAXED] [MOTIVATION: 100%]</code>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJ1c3R6dDBiNGV6b3N3ZXJwZ2l4aGRjNG5kY2JxMXp1d3l1bWk3ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="600">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=18&pause=2000&color=00E5FF&center=true&vCenter=true&width=900&lines=Thanks+for+visiting+SHAGILAN.SYS;Keep+Learning+%7C+Keep+Building+%7C+Keep+Growing;System+Status%3A+ONLINE+%E2%9C%93" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00E5FF,0099FF,003B73&height=120&section=footer"/>
 </div>
