@@ -251,13 +251,13 @@ drwxr-xr-x  shagilan  staff   ..
   [sudo] password for shagilan: ••••••••
 
   ╔════════════════════════════════════════════════════════╗
-  ║               GHOST_02 — CLASSIFIED                  ║
+  ║               malware_02 — CLASSIFIED                  ║
   ╠════════════════════════════════════════════════════════╣
   ║  TYPE     : ████████████████████                      ║
   ║  STACK    : ████████ · ████ · ████████                ║
   ║  DESC     : ██████████████████████████████████████    ║
   ║             ████████████████ REDACTED ██████████      ║
-  ║  CLEARANCE: TOP SECRET — LEVEL  REQUIRED             ║
+  ║  CLEARANCE: TOP SECRET — LEVEL 8 REQUIRED             ║
   ╚════════════════════════════════════════════════════════╝
 
   bash: permission denied — nice try though 😏
@@ -279,7 +279,7 @@ drwxr-xr-x  shagilan  staff   ..
   ╠════════════════════════════════════════════════════════╣
   ║  TYPE     : AI / Threat Intelligence                   ║
   ║  STACK    : Python · PyTorch · Transformers            ║
-  ║             FastAPI · Redis                            ║
+  ║             FastAPI ·                             ║
   ║  DESC     : Adversarial ML meets automated threat      ║
   ║             intelligence. Training phase active.       ║
   ║  PROGRESS : [█████████████░░░░░░░] 67%                 ║
@@ -378,19 +378,16 @@ root@shagilan:~$ cat achievements.log | sort -k1
 
 |`TIMESTAMP` |`CATEGORY`  |`ACHIEVEMENT`                    |`STATUS`       |
 |:-----------|:-----------|:--------------------------------|:-------------:|
-|`2024-XX-XX`|🏆 HACKATHON |Hackathon Finalist — Team Project|`✅ UNLOCKED`   |
-|`2024-XX-XX`|🏆 HACKATHON |24hr Build Challenge — Completed |`✅ UNLOCKED`   |
-|`2024-XX-XX`|🤖 AI / ML   |PS_43 IDS — 97.3% Accuracy       |`✅ UNLOCKED`   |
-|`2024-XX-XX`|🤖 AI / ML   |First Neural Net Deployed to Prod|`✅ UNLOCKED`   |
-|`2024-XX-XX`|🔐 CYBERSEC  |TryHackMe — Top 10% Operator     |`✅ UNLOCKED`   |
-|`2024-XX-XX`|🔐 CYBERSEC  |First CTF Flag Captured 🚩        |`✅ UNLOCKED`   |
-|`2024-XX-XX`|🌐 OSS       |First Open Source PR Merged      |`✅ UNLOCKED`   |
-|`2024-XX-XX`|🌐 OSS       |GitHub Profile README Crafted    |`✅ UNLOCKED`   |
-|`2024-XX-XX`|📚 LEARNING  |Python — Advanced Level Achieved |`✅ UNLOCKED`   |
-|`2024-XX-XX`|📚 LEARNING  |B.Tech CS — In Progress          |`⏳ ONGOING`    |
+|`2025-XX-XX`|🤖 AI        |PS_43 IDS — 97.3% Accuracy       |`✅ UNLOCKED`   |
+|`2025-XX-XX`|🤖 AI / ML   |First Neural Net Deployed to Prod|`✅ UNLOCKED`   |
+|`2025-XX-XX`|🌐 OSS       |First Open Source PR Merged      |`✅ UNLOCKED`   |
+|`2025-XX-XX`|🌐 OSS       |GitHub Profile README Crafted    |`✅ UNLOCKED`   |
+|`2025-XX-XX`|📚 LEARNING  |Python — Advanced Level Achieved |`✅ UNLOCKED`   |
+|`2025-XX-XX`|📚 LEARNING  |B.Tech CS — In Progress          |`⏳ ONGOING`    |
 |`2025-XX-XX`|🔒 CLASSIFIED|GHOST_02 — Redacted Operation    |`🔒 SECRET`     |
-|`2025-XX-XX`|🛸 RESEARCH  |NOVA_03 — AI Research Paper      |`⏳ IN PROGRESS`|
-|`????-??-??`|🚀 FUTURE    |Land Dream ML/Cybersec Role      |`🎯 TARGET`     |
+|`2025-XX-XX`|🛸 RESEARCH  |AI Research Paper                |`⏳ IN PROGRESS`|
+|`2026-XX-XX`|🏆 HACKATHON |Hackathon Finalist(dsci)         |` ✅ UNLOCKED`  |
+|`????-??-??`|🚀 FUTURE    |Land Dream ML/AIDS Role          |`🎯 TARGET`     |
 
 ```
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
